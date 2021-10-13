@@ -27,5 +27,8 @@ namespace progetto_benzina
         {
             return Prezzo; 
         }
+        
+        public double getWatt(){
+            return watt; 
      }
 }
