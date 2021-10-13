@@ -29,5 +29,8 @@ namespace progetto_benzina
         {
             return Prezzo;
         }
-    }
+        
+        public string getProduttore(){
+            return Produttore; 
+         }
 }
